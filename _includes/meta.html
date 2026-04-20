@@ -1,0 +1,15 @@
+<header>
+    <h1>
+        <a href="{{ include.post.url | relative_url }}">{{ include.post.title }}</a>
+    </h1>
+    <div class="meta">
+        {%- assign date_format = site.date_format | default: "%B %d, %Y" -%}
+        <time datetime="{{ include.post.date | date_to_xmlschema }}">{{ include.post.date | date: date_format }}
+        </time>
+        <span class="author">
+            <a href="{{ include.post.author-url | relative_url }}"> 
+                {{ include.post.author }} 
+            </a>
+        </span>
+    </div>
+</header>

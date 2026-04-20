@@ -1,27 +1,40 @@
 ---
-title: "What is Stack-Breakthrough."
+title: "What is Stack-Train."
 layout: post
-author: "Michael Rose"
-author-url: "https://github.com/mrose"
+author: "Levis A"
+author-url: "https://github.com/alevis"
 categories: category
 ---
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Stack-Train is a guided progression through a modern tech stack, where each “stop” represents a tool, language, or concept you learn in sequence.
+
+### 1. Learning path / roadmap
+A sequence of technologies grouped by layer:
+Frontend (HTML, CSS, JavaScript, frameworks)
+Backend (servers, APIs, databases)
+Dev tools (Git, CLI, deployment)
+Organized to reflect how developers typically grow skills step-by-step
 
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+### 2. Stack-oriented thinking
 
+The site emphasizes:
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Author' to STDOUT.
-{% endhighlight %}
+Understanding how different layers of a tech stack connect
+Learning tools in logical order instead of randomly
+Seeing development as a system, not isolated skills
 
-<!--
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
--->
+### 3. Lightweight, static design
+Very simple UI (typical of GitHub Pages)
+Likely built with plain HTML/CSS or a lightweight static generator
+No heavy interactivity—focus is on content, not features
+
+### Purpose
+
+A self-learning guide for aspiring developers
+A reference map of technologies used in modern web development
+A personal or community-curated curriculum
+
+- Not a product or framework
+- Not a full tutorial platform
+- Instead: a structured roadmap for learning full-stack development

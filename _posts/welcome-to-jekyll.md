@@ -1,7 +1,7 @@
 ---
 title: "Welcome to Jekyll"
 layout: post
-author: "Gary Morrow"
+author: "Levis A"
 author-url: "http://example.com"
 categories: category
 ---

@@ -1,7 +1,7 @@
 ---
 title:  "Markdown examples"
 layout: post
-author: "First Last"
+author: "Levis A"
 author-url: "http://example.com/"
 categories: category
 ---

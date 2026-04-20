@@ -1,4 +1,4 @@
-title: "Through The Stack!"
+title: "Stack-Train"
 description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
 permalink: /:title/
 lang: "en"
@@ -8,7 +8,7 @@ date_format: "%B %d, %Y"
 # Authors
 authors:
   alevis:
-    name: "Levis Agaba"
+    name: "Levis A"
     url: "https://github.com/alevis"
 
 # Layout

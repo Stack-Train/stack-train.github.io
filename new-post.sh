@@ -1,6 +1,6 @@
 #!/bin/sh
 # Blog post creation script
-# Author: Levis Agaba <@alevis>
+# Author: Levis A <@alevis>
 
 today=`date +%Y-%m-%d`
 
